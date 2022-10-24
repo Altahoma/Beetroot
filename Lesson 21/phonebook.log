@@ -1,0 +1,13 @@
+2022-10-22 21:09:11,603 - INFO - open phonebook.json
+2022-10-22 21:09:11,603 - INFO - write new entry 0671234567 to phonebook.json
+2022-10-22 21:09:11,603 - INFO - close phonebook.json
+2022-10-22 21:09:11,603 - INFO - open phonebook.json
+2022-10-22 21:09:11,604 - INFO - read phonebook.json
+2022-10-22 21:09:11,604 - INFO - close phonebook.json
+2022-10-22 21:09:11,604 - INFO - open phonebook.json
+2022-10-22 21:09:11,604 - ERROR - <class 'AttributeError'>, 'Phonebook' object has no attribute 'dosomething'
+2022-10-22 21:09:11,604 - INFO - close phonebook.json
+2022-10-22 21:09:11,604 - INFO - open book.json
+2022-10-22 21:09:11,605 - ERROR - not found book.json
+2022-10-22 21:09:11,605 - ERROR - <class 'AttributeError'>, 'NoneType' object has no attribute 'read'
+2022-10-22 21:09:11,605 - INFO - close book.json
